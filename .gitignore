@@ -12,5 +12,7 @@ collab_folders/
 *.tmp
 
 # Exclude these files from being ignored:
-!*.sh
-!*/README.md
+!1-data/*/*.sh
+!1-data/README.md
+!2-analysis/README.md
+!3-literature/README.md
