@@ -1,14 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T19:21:06.442Z" agent="5.0 (Macintosh)" etag="hQpgPba-oztVymeKxNBE" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T19:58:53.076Z" agent="5.0 (Macintosh)" etag="NzLTpb2IlCGEQhxB4AMW" version="15.9.4" type="github">
   <diagram id="_FeIpueK-TZa2c9kANLZ" name="Page-1">
     <mxGraphModel dx="675" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-1" target="Xpva0r61hY2SAYBEdhQp-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Xpva0r61hY2SAYBEdhQp-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-1" target="Xpva0r61hY2SAYBEdhQp-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -16,51 +11,69 @@
           <mxGeometry width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Xpva0r61hY2SAYBEdhQp-5" value="&lt;div&gt;&lt;b&gt;NOTE&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Expected demultiplexing results given used barcodes&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="45" y="140" width="90" height="90" as="geometry" />
+          <mxGeometry x="210" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-11" target="Xpva0r61hY2SAYBEdhQp-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-11" target="Xpva0r61hY2SAYBEdhQp-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-11" target="Xpva0r61hY2SAYBEdhQp-17">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-11" target="Xpva0r61hY2SAYBEdhQp-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xpva0r61hY2SAYBEdhQp-11" value="&lt;div&gt;&lt;b&gt;01 April 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;1 x Flongle run with 5 7G8 replicates&lt;/li&gt;&lt;li&gt;1 x flow cell runs with 5 7G8 replicates&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" width="180" height="110" as="geometry" />
+          <mxGeometry y="230" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Xpva0r61hY2SAYBEdhQp-13" value="&lt;div&gt;&lt;b&gt;NOTE&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Numerous spurious barcodes identified in contrast to 11 March output&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="300" y="130" width="110" height="110" as="geometry" />
+          <mxGeometry x="210" y="230" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Xpva0r61hY2SAYBEdhQp-15" value="Laboratory error?" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="90" width="120" height="50" as="geometry" />
+          <mxGeometry x="195" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endArrow=oval;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-17" target="Xpva0r61hY2SAYBEdhQp-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xpva0r61hY2SAYBEdhQp-17" value="Software issue?" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="10" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="114" as="sourcePoint" />
-            <mxPoint x="210" y="54" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="195" y="410" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Xpva0r61hY2SAYBEdhQp-20" value="&lt;div&gt;guppy software &lt;br&gt;&lt;/div&gt;&lt;div&gt;update&lt;/div&gt;&lt;div&gt;v. 4.0.9 to v. 4.3.4&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="107" width="140" height="103" as="geometry" />
+          <mxGeometry x="20" y="112" width="140" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-21" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="170" width="140" height="120" as="geometry">
-            <mxRectangle x="470" y="170" width="50" height="30" as="alternateBounds" />
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-21" value="Evidence against laboratory error" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="620" y="10" width="190" height="30" as="geometry">
+            <mxRectangle x="620" y="10" width="220" height="130" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-22" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Xpva0r61hY2SAYBEdhQp-21">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-22" value="Spurious barcodes include barcodes not present in the lab" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=10;" vertex="1" parent="Xpva0r61hY2SAYBEdhQp-21">
+          <mxGeometry y="30" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-23" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Xpva0r61hY2SAYBEdhQp-21">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-23" value="Barcoding PCR appeared successful in gel image" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=10;" vertex="1" parent="Xpva0r61hY2SAYBEdhQp-21">
+          <mxGeometry y="60" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-24" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Xpva0r61hY2SAYBEdhQp-21">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-24" value="New MinION user supervised by experienced MinION user" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=10;" vertex="1" parent="Xpva0r61hY2SAYBEdhQp-21">
+          <mxGeometry y="90" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-29" value="Are there similarities between the target sequence, the primers, and the spurious barcodes?" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="124" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-31" value="Barcode, primer, and target sequence data comparison in Geneious" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="440" y="230" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-32" value="Exploration of &quot;unclassified&quot; reads " style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="650" y="230" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-33" value="Why are there so many unclassified reads?" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="640" y="44" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-34" value="Why do there appear to be &lt;i&gt;E. coli &lt;/i&gt;sequences in the unclassified reads?" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="655" y="320" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-35" target="Xpva0r61hY2SAYBEdhQp-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-35" value="&lt;div&gt;&lt;b&gt;06 May 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;1 x Flongle run with 5 7G8 replicates&lt;/li&gt;&lt;li&gt;2 x flow cell runs with 5 7G8 replicates each&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="370" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-38" value="&lt;div&gt;&lt;b&gt;08 June 2021&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;1 x flow cell run with 5 reference strains&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="510" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-40" value="One-off incident?" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="460" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
