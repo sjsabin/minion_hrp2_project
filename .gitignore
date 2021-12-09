@@ -1,4 +1,8 @@
+# Ignore irrelevant invisibles:
+.DS_Store
+
 # Ignore these directories:
+.ipynb_checkpoints/
 1-data/
 2-analysis/
 3-literature/
