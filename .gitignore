@@ -1,0 +1,12 @@
+# Ignore these directories:
+1-data/
+2-analysis/
+3-literature/
+collab_folders/
+
+# Ignore temporary files:
+*.tmp
+
+# Exclude these files from being ignored:
+!*.sh
+!*/README.md
