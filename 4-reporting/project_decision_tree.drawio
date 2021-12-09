@@ -1,1 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T18:50:00.177Z" agent="5.0 (Macintosh)" version="15.9.4" etag="KRRqv-vB6lw_2cjmX6qA" type="github"><diagram id="_FeIpueK-TZa2c9kANLZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-09T19:21:06.442Z" agent="5.0 (Macintosh)" etag="hQpgPba-oztVymeKxNBE" version="15.9.4" type="github">
+  <diagram id="_FeIpueK-TZa2c9kANLZ" name="Page-1">
+    <mxGraphModel dx="675" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-1" target="Xpva0r61hY2SAYBEdhQp-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-1" target="Xpva0r61hY2SAYBEdhQp-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-1" value="&lt;div&gt;&lt;b&gt;11 March 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;1 x Flongle run with 3 7G8 replicates&lt;/li&gt;&lt;li&gt;2 x flow cell runs with 5 7G8 replicates each&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-5" value="&lt;div&gt;&lt;b&gt;NOTE&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Expected demultiplexing results given used barcodes&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="45" y="140" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-11" target="Xpva0r61hY2SAYBEdhQp-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-11" target="Xpva0r61hY2SAYBEdhQp-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-11" target="Xpva0r61hY2SAYBEdhQp-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-11" value="&lt;div&gt;&lt;b&gt;01 April 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;1 x Flongle run with 5 7G8 replicates&lt;/li&gt;&lt;li&gt;1 x flow cell runs with 5 7G8 replicates&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-13" value="&lt;div&gt;&lt;b&gt;NOTE&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Numerous spurious barcodes identified in contrast to 11 March output&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="130" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-15" value="Laboratory error?" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="90" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-17" value="Software issue?" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="114" as="sourcePoint" />
+            <mxPoint x="210" y="54" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-20" value="&lt;div&gt;guppy software &lt;br&gt;&lt;/div&gt;&lt;div&gt;update&lt;/div&gt;&lt;div&gt;v. 4.0.9 to v. 4.3.4&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="107" width="140" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-21" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="170" width="140" height="120" as="geometry">
+            <mxRectangle x="470" y="170" width="50" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-22" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Xpva0r61hY2SAYBEdhQp-21">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-23" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Xpva0r61hY2SAYBEdhQp-21">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-24" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Xpva0r61hY2SAYBEdhQp-21">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
