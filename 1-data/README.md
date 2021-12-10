@@ -3,7 +3,7 @@
 ## Structure
 
 | Subfolder | Description | git status |
-| __________| ___________ | __________ |
+| --------- | ----------- | ---------- |
 | 1-raw | early raw data directory for sequencing core data and preliminary quality assessments | ignored |
 | 2-guppy_basecaller_calib_detect | experimental variations on basecalling and barcoding using different guppy versions and parameters, specifically using and omitting the "calib_detect" option | scripts added, all else ignored |
 | 3-guppy_5.0.16 | basecalling and barcoding variations with "latest" guppy version (Nov. 2021) | scripts added, all else ignored |
