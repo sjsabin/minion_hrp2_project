@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-10T14:52:48.842Z" agent="5.0 (Macintosh)" etag="Mw2x-GxqisQdGqdWOmT-" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-10T15:03:20.556Z" agent="5.0 (Macintosh)" etag="Tx8unc1-szz79kUH2cb2" version="15.9.4" type="github">
   <diagram id="_FeIpueK-TZa2c9kANLZ" name="Page-1">
     <mxGraphModel dx="872" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
       <root>
@@ -204,6 +204,9 @@
         <mxCell id="Xpva0r61hY2SAYBEdhQp-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-73" target="Xpva0r61hY2SAYBEdhQp-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-73" target="Xpva0r61hY2SAYBEdhQp-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Xpva0r61hY2SAYBEdhQp-73" value="&lt;div&gt;&lt;b&gt;23 June 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Replicate Sanger sequencing for reference strains 7G8, HB3, D6, FC27&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="760" width="180" height="110" as="geometry" />
         </mxCell>
@@ -230,6 +233,21 @@
         </mxCell>
         <mxCell id="Xpva0r61hY2SAYBEdhQp-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-93" target="Xpva0r61hY2SAYBEdhQp-94">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-97" value="What is the optimal balance between number of samples per run, flow cell, and sequencing time?" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="375" y="860" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-98" value="Is there bleed-through from non-barcoded DNA to barcoded DNA?" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="390" y="930" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-99" value="What are the best-performing &lt;i&gt;pfhrp2 &lt;/i&gt;barcoding primers?" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1000" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-100" value="&lt;i&gt;k13 &lt;/i&gt;amplicon spike-in experiment to test bleed-through into barcoded DNA and minimum sequencing to detect minority DNA in sequencing pool " style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="165" y="890" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-101" value="&lt;div&gt;&lt;b&gt;14 July 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Basic Flongle experiment representing a 2 sample + negative control model&lt;/li&gt;&lt;li&gt;HB3, FC27, and Dd2&lt;/li&gt;&lt;li&gt;6 hours&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="905" width="180" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
