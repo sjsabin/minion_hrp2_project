@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-10T16:26:49.713Z" agent="5.0 (Macintosh)" etag="Paum42WuAMF34ai3f9Li" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-10T16:32:45.271Z" agent="5.0 (Macintosh)" etag="Z-bTh5dT1y4mxr2D-9Uw" version="15.9.4" type="github">
   <diagram id="_FeIpueK-TZa2c9kANLZ" name="Page-1">
     <mxGraphModel dx="872" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -282,8 +282,12 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="810" y="1260" />
-              <mxPoint x="810" y="1660" />
-              <mxPoint x="210" y="1660" />
+              <mxPoint x="810" y="1560" />
+              <mxPoint x="590" y="1560" />
+              <mxPoint x="590" y="1660" />
+              <mxPoint x="410" y="1660" />
+              <mxPoint x="410" y="1590" />
+              <mxPoint x="210" y="1590" />
               <mxPoint x="210" y="1555" />
             </Array>
           </mxGeometry>
@@ -359,6 +363,9 @@
         <mxCell id="Xpva0r61hY2SAYBEdhQp-121" value="ONT full standard protocol involves additional primers, an additional PCR reaction, and numerous clean-up steps in comparison to the previous custom protocol" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#CC0000;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="427.5" y="1310" width="140" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-128" target="Xpva0r61hY2SAYBEdhQp-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Xpva0r61hY2SAYBEdhQp-128" value="Despite the promising distribution of reads, the data did not have true amplicons, but chimeric, truncated sequences&amp;nbsp; " style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#CC0000;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="432.5" y="1510" width="140" height="140" as="geometry" />
         </mxCell>
@@ -368,8 +375,22 @@
         <mxCell id="Xpva0r61hY2SAYBEdhQp-129" value="ONT protocol sequencing data analysis" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="220" y="1520" width="185" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-135" target="Xpva0r61hY2SAYBEdhQp-143">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="1577" />
+              <mxPoint x="190" y="1635" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Xpva0r61hY2SAYBEdhQp-135" value="&lt;div&gt;&lt;b&gt;09-10 November 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;barcoding test&lt;/li&gt;&lt;li&gt;6 x flow cell runs with 3-5 replicates of 7G8 each&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="1510" width="180" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-141" value="Data resulting from ONT protocol is unusable for this assay" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="612.5" y="1490" width="185" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-143" value="Analysis of read distribution across barcodes and barcode performance comparison" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1610" width="185" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
