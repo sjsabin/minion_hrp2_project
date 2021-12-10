@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-10T15:03:20.556Z" agent="5.0 (Macintosh)" etag="Tx8unc1-szz79kUH2cb2" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-10T15:53:27.023Z" agent="5.0 (Macintosh)" etag="E66Ba2YUD0rKmoptG81x" version="15.9.4" type="github">
   <diagram id="_FeIpueK-TZa2c9kANLZ" name="Page-1">
-    <mxGraphModel dx="872" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="872" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -244,10 +244,19 @@
           <mxGeometry x="390" y="1000" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xpva0r61hY2SAYBEdhQp-100" value="&lt;i&gt;k13 &lt;/i&gt;amplicon spike-in experiment to test bleed-through into barcoded DNA and minimum sequencing to detect minority DNA in sequencing pool " style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="165" y="890" width="185" height="70" as="geometry" />
+          <mxGeometry x="210" y="1060" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-101" target="Xpva0r61hY2SAYBEdhQp-105">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xpva0r61hY2SAYBEdhQp-101" value="&lt;div&gt;&lt;b&gt;14 July 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Basic Flongle experiment representing a 2 sample + negative control model&lt;/li&gt;&lt;li&gt;HB3, FC27, and Dd2&lt;/li&gt;&lt;li&gt;6 hours&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="905" width="180" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-103" value="&lt;i&gt;in vitro &lt;/i&gt;test of all barcoding primers to assess performance&lt;br&gt;&lt;i&gt;&lt;/i&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1110" width="185" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-105" value="&lt;div&gt;&lt;b&gt;24 September 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;sequencing of &lt;i&gt;k13 &lt;/i&gt;amplicon spike-in pools&lt;/li&gt;&lt;li&gt;1 x Flongle run with 7G8, 3D7, HB3, FC27, Dd2 (MR4 isolates)&lt;br&gt;&lt;/li&gt;&lt;li&gt;1 x flow cell run with 7G8, 3D7, HB3, FC27, Dd2 (MR4 isolates)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1067" width="180" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
