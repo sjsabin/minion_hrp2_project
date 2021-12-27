@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-12-10T22:43:55.407Z" agent="5.0 (Macintosh)" version="15.9.4" etag="tg6I1NFfc4g2gADDPVzJ" type="github"><diagram id="NpRxapIsqfa-SvnayN5d">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-27T16:29:15.087Z" agent="5.0 (Macintosh)" etag="4DRa9hAMz7jwraGxZ473" version="15.9.4" type="github">
+  <diagram id="NpRxapIsqfa-SvnayN5d" name="Page-1">
+    <mxGraphModel dx="675" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="2000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RjDeFfzfzhG8dPobCuWy-1" value="ONT PCR Barcoding Protocol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RjDeFfzfzhG8dPobCuWy-2" value="Custom &lt;i&gt;hrp2 &lt;/i&gt;Barcoding Protocol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="130" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
