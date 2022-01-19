@@ -17,5 +17,6 @@ collab_folders/
 !2-analysis/README.md
 !2-analysis/barcode_performance_test/hrp2.py
 !2-analysis/jupyter_notebooks/*
+!2-analysis/*/*.sh
 !3-literature/README.md
 
