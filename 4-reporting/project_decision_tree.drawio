@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-12-10T16:45:21.384Z" agent="5.0 (Macintosh)" etag="raYyB-QFvCQf9exdpKPh" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-27T16:03:47.582Z" agent="5.0 (Macintosh)" etag="iCpi1bv5z2h2Px_fmzgp" version="15.9.4" type="github">
   <diagram id="_FeIpueK-TZa2c9kANLZ" name="Page-1">
-    <mxGraphModel dx="872" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="675" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-93" value="Why are there still so many unclassified reads" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-93" value="Why are there still so many unclassified reads" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="655" y="850" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-1" target="Xpva0r61hY2SAYBEdhQp-11">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-1" target="Xpva0r61hY2SAYBEdhQp-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=10;endArrow=oval;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-91" target="Xpva0r61hY2SAYBEdhQp-93">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=10;endArrow=oval;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-91" target="Xpva0r61hY2SAYBEdhQp-93" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="828" y="820" />
@@ -18,75 +18,75 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-1" value="&lt;div&gt;&lt;b&gt;11 March 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;1 x Flongle run with 3 7G8 replicates&lt;/li&gt;&lt;li&gt;2 x flow cell runs with 5 7G8 replicates each&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-1" value="&lt;div&gt;&lt;b&gt;11 March 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;1 x Flongle run with 3 7G8 replicates&lt;/li&gt;&lt;li&gt;2 x flow cell runs with 5 7G8 replicates each&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-5" value="&lt;div&gt;&lt;b&gt;NOTE&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Expected demultiplexing results given used barcodes&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-5" value="&lt;div&gt;&lt;b&gt;NOTE&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Expected demultiplexing results given used barcodes&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="210" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-11" target="Xpva0r61hY2SAYBEdhQp-35">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-11" target="Xpva0r61hY2SAYBEdhQp-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=oval;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-11" target="Xpva0r61hY2SAYBEdhQp-13">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=oval;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-11" target="Xpva0r61hY2SAYBEdhQp-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-11" value="&lt;div&gt;&lt;b&gt;01 April 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;1 x Flongle run with 5 7G8 replicates&lt;/li&gt;&lt;li&gt;1 x flow cell runs with 5 7G8 replicates&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-11" value="&lt;div&gt;&lt;b&gt;01 April 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;1 x Flongle run with 5 7G8 replicates&lt;/li&gt;&lt;li&gt;1 x flow cell runs with 5 7G8 replicates&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="230" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=diamond;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-13" target="Xpva0r61hY2SAYBEdhQp-15">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=diamond;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-13" target="Xpva0r61hY2SAYBEdhQp-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-13" value="Numerous spurious barcodes identified in contrast to 11 March output" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;strokeColor=#CC0000;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-13" value="Numerous spurious barcodes identified in contrast to 11 March output" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;strokeColor=#CC0000;" parent="1" vertex="1">
           <mxGeometry x="220" y="100" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=oval;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-15" target="Xpva0r61hY2SAYBEdhQp-21">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=oval;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-15" target="Xpva0r61hY2SAYBEdhQp-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-15" target="Xpva0r61hY2SAYBEdhQp-17">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=none;endFill=0;dashed=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-15" target="Xpva0r61hY2SAYBEdhQp-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-15" value="Laboratory error?" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-15" value="Laboratory error?" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="210" y="230" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endArrow=oval;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-17" target="Xpva0r61hY2SAYBEdhQp-29">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endArrow=oval;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-17" target="Xpva0r61hY2SAYBEdhQp-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontSize=10;endArrow=none;endFill=0;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-17" target="Xpva0r61hY2SAYBEdhQp-40">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontSize=10;endArrow=none;endFill=0;" parent="1" source="Xpva0r61hY2SAYBEdhQp-17" target="Xpva0r61hY2SAYBEdhQp-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-17" value="Software/sequence issue?" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-17" value="Software/sequence issue?" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="205" y="280" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-20" value="&lt;div&gt;guppy software &lt;br&gt;&lt;/div&gt;&lt;div&gt;update&lt;/div&gt;&lt;div&gt;v. 4.0.9 to v. 4.3.4&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-20" value="&lt;div&gt;guppy software &lt;br&gt;&lt;/div&gt;&lt;div&gt;update&lt;/div&gt;&lt;div&gt;v. 4.0.9 to v. 4.3.4&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="112" width="140" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-21" value="Evidence against laboratory error" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-21" value="Evidence against laboratory error" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="375" y="14" width="275" height="130" as="geometry">
             <mxRectangle x="375" y="14" width="190" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-22" value="Spurious barcodes include barcodes not present in the lab" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=10;" vertex="1" parent="Xpva0r61hY2SAYBEdhQp-21">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-22" value="Spurious barcodes include barcodes not present in the lab" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=10;" parent="Xpva0r61hY2SAYBEdhQp-21" vertex="1">
           <mxGeometry y="30" width="275" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-23" value="Barcoding PCR appeared successful in gel image" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=10;" vertex="1" parent="Xpva0r61hY2SAYBEdhQp-21">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-23" value="Barcoding PCR appeared successful in gel image" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=10;" parent="Xpva0r61hY2SAYBEdhQp-21" vertex="1">
           <mxGeometry y="60" width="275" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-24" value="New MinION user supervised by experienced MinION user" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=10;" vertex="1" parent="Xpva0r61hY2SAYBEdhQp-21">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-24" value="New MinION user supervised by experienced MinION user" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=10;" parent="Xpva0r61hY2SAYBEdhQp-21" vertex="1">
           <mxGeometry y="90" width="275" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-29" value="Are there similarities between the target sequence, the primers, and the spurious barcodes?" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-29" value="Are there similarities between the target sequence, the primers, and the spurious barcodes?" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="375" y="170" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-31" value="Barcode, primer, and target sequence data comparison in Geneious" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-31" value="Barcode, primer, and target sequence data comparison in Geneious" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="657.5" y="180" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=diamond;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-32" target="Xpva0r61hY2SAYBEdhQp-34">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=diamond;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-32" target="Xpva0r61hY2SAYBEdhQp-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-32" value="Exploration of &quot;unclassified&quot; reads " style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-32" value="Exploration of &quot;unclassified&quot; reads " style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="230" y="640" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-33" target="Xpva0r61hY2SAYBEdhQp-32">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-33" target="Xpva0r61hY2SAYBEdhQp-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="663" y="730" />
@@ -94,141 +94,141 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-33" value="Why are there so many unclassified reads?" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-33" value="Why are there so many unclassified reads?" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="645" y="430" width="120" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-34" target="Xpva0r61hY2SAYBEdhQp-85">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-34" target="Xpva0r61hY2SAYBEdhQp-85" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-34" value="Why do there appear to be &lt;i&gt;E. coli &lt;/i&gt;sequences in the unclassified reads?" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-34" value="Why do there appear to be &lt;i&gt;E. coli &lt;/i&gt;sequences in the unclassified reads?" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="295" y="770" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=oval;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-35" target="Xpva0r61hY2SAYBEdhQp-50">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=oval;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-35" target="Xpva0r61hY2SAYBEdhQp-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-35" target="Xpva0r61hY2SAYBEdhQp-71">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-35" target="Xpva0r61hY2SAYBEdhQp-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-35" value="&lt;div&gt;&lt;b&gt;06 May 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;1 x Flongle run with 5 7G8 replicates&lt;/li&gt;&lt;li&gt;2 x flow cell runs with 5 7G8 replicates each&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-35" value="&lt;div&gt;&lt;b&gt;06 May 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;1 x Flongle run with 5 7G8 replicates&lt;/li&gt;&lt;li&gt;2 x flow cell runs with 5 7G8 replicates each&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="370" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-38" target="Xpva0r61hY2SAYBEdhQp-73">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-38" target="Xpva0r61hY2SAYBEdhQp-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-38" value="&lt;div&gt;&lt;b&gt;08 June 2021&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;1 x flow cell run with 5 reference strains: 3D7, 7G8, HB3, D6, FC27&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-38" value="&lt;div&gt;&lt;b&gt;08 June 2021&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;1 x flow cell run with 5 reference strains: 3D7, 7G8, HB3, D6, FC27&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="628" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-40" target="Xpva0r61hY2SAYBEdhQp-35">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-40" target="Xpva0r61hY2SAYBEdhQp-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-40" value="One-off incident?" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-40" value="One-off incident?" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="210" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=diamond;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-50" target="Xpva0r61hY2SAYBEdhQp-54">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=diamond;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-50" target="Xpva0r61hY2SAYBEdhQp-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-50" value="&lt;div&gt;Numerous spurious barcodes identified &lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#CC0000;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-50" value="&lt;div&gt;Numerous spurious barcodes identified &lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#CC0000;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="285" y="385" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-53" value="No meaningful similarities between barcodes, primers, and target sequence" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-53" value="No meaningful similarities between barcodes, primers, and target sequence" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="655" y="100" width="185" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10;endArrow=oval;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-54" target="Xpva0r61hY2SAYBEdhQp-56">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10;endArrow=oval;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Xpva0r61hY2SAYBEdhQp-54" target="Xpva0r61hY2SAYBEdhQp-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="503" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-54" value="One-off incident?" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-54" value="One-off incident?" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="442.5" y="330" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=diamond;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-56" target="Xpva0r61hY2SAYBEdhQp-57">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=diamond;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-56" target="Xpva0r61hY2SAYBEdhQp-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=diamond;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-56" target="Xpva0r61hY2SAYBEdhQp-62">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=diamond;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-56" target="Xpva0r61hY2SAYBEdhQp-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-56" value="Spurious barcodes not an isolated incident" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-56" value="Spurious barcodes not an isolated incident" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="410" y="396" width="185" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontSize=10;endArrow=none;endFill=0;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-57" target="Xpva0r61hY2SAYBEdhQp-58">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontSize=10;endArrow=none;endFill=0;" parent="1" source="Xpva0r61hY2SAYBEdhQp-57" target="Xpva0r61hY2SAYBEdhQp-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-57" value="Laboratory error?" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeWidth=4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-57" value="Laboratory error?" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeWidth=4;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="442.5" y="470" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-58" target="Xpva0r61hY2SAYBEdhQp-63">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-58" target="Xpva0r61hY2SAYBEdhQp-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-58" value="Software/sequence issue?" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-58" value="Software/sequence issue?" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="437.5" y="520" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-62" target="Xpva0r61hY2SAYBEdhQp-70">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-62" target="Xpva0r61hY2SAYBEdhQp-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-62" value="Is multiplexing effective enough at distinguishing distinct &lt;i&gt;pfhrp2&lt;/i&gt; amplicons to be worth trouble-shooting?" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-62" value="Is multiplexing effective enough at distinguishing distinct &lt;i&gt;pfhrp2&lt;/i&gt; amplicons to be worth trouble-shooting?" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="440" y="620" width="215" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=diamond;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-63" target="Xpva0r61hY2SAYBEdhQp-33">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=diamond;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-63" target="Xpva0r61hY2SAYBEdhQp-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-63" target="Xpva0r61hY2SAYBEdhQp-89">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-63" target="Xpva0r61hY2SAYBEdhQp-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-63" value="Collation of barcode read distribution statistics from all MinION runs, reprocessing of 11 March data with latest version of guppy (v. 5.*)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-63" value="Collation of barcode read distribution statistics from all MinION runs, reprocessing of 11 March data with latest version of guppy (v. 5.*)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="660" y="270" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-65" value="Spurious barcodes appear in 11 March data when barcoded using guppy v. 5.*" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-65" value="Spurious barcodes appear in 11 March data when barcoded using guppy v. 5.*" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="650" y="370" width="195" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10;endArrow=oval;endFill=1;entryX=0.538;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-63" target="Xpva0r61hY2SAYBEdhQp-65">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10;endArrow=oval;endFill=1;entryX=0.538;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Xpva0r61hY2SAYBEdhQp-63" target="Xpva0r61hY2SAYBEdhQp-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-70" target="Xpva0r61hY2SAYBEdhQp-71">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-70" target="Xpva0r61hY2SAYBEdhQp-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-70" target="Xpva0r61hY2SAYBEdhQp-38">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-70" target="Xpva0r61hY2SAYBEdhQp-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-70" target="Xpva0r61hY2SAYBEdhQp-73">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-70" target="Xpva0r61hY2SAYBEdhQp-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-70" value="Preparation of reference strain panel for both Sanger sequencing and MinION sequencing to establish multiplexing can distinguish distinct &lt;i&gt;pfhrp2 &lt;/i&gt;types" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-70" value="Preparation of reference strain panel for both Sanger sequencing and MinION sequencing to establish multiplexing can distinguish distinct &lt;i&gt;pfhrp2 &lt;/i&gt;types" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="230" y="500" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-71" target="Xpva0r61hY2SAYBEdhQp-38">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-71" target="Xpva0r61hY2SAYBEdhQp-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-71" value="&lt;div&gt;&lt;b&gt;25 May 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Sanger sequencing for reference strains 3D7, 7G8, HB3, D6, FC27&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-71" value="&lt;div&gt;&lt;b&gt;25 May 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Sanger sequencing for reference strains 3D7, 7G8, HB3, D6, FC27&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="512" width="180" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-73" target="Xpva0r61hY2SAYBEdhQp-32">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-73" target="Xpva0r61hY2SAYBEdhQp-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-73" target="Xpva0r61hY2SAYBEdhQp-101">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-73" target="Xpva0r61hY2SAYBEdhQp-101" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-73" value="&lt;div&gt;&lt;b&gt;23 June 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Replicate Sanger sequencing for reference strains 7G8, HB3, D6, FC27&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-73" value="&lt;div&gt;&lt;b&gt;23 June 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Replicate Sanger sequencing for reference strains 7G8, HB3, D6, FC27&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="760" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-85" value="Investigation of putative &lt;i&gt;E. coli &lt;/i&gt;reads" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-85" value="Investigation of putative &lt;i&gt;E. coli &lt;/i&gt;reads" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="500" y="770" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-86" value="Putative &lt;i&gt;E. coli &lt;/i&gt;reads are Lambda DNA from the DNA calibration sequence included in the MinION library preparation protocol. Unrelated to spurious barcoding issue." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-86" value="Putative &lt;i&gt;E. coli &lt;/i&gt;reads are Lambda DNA from the DNA calibration sequence included in the MinION library preparation protocol. Unrelated to spurious barcoding issue." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="687.5" y="680" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-89" value="Barcoding of all runs after 11 March using old version of guppy (v. 4.0.11)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-89" value="Barcoding of all runs after 11 March using old version of guppy (v. 4.0.11)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="679" y="510" width="155" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-91" value="Spurious barcode issue nearly eliminated with use of guppy v. 4.0.11" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-91" value="Spurious barcode issue nearly eliminated with use of guppy v. 4.0.11" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="676.5" y="596" width="160" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=oval;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-89" target="Xpva0r61hY2SAYBEdhQp-91">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=oval;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-89" target="Xpva0r61hY2SAYBEdhQp-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=10;endArrow=oval;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-85" target="Xpva0r61hY2SAYBEdhQp-86">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=10;endArrow=oval;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-85" target="Xpva0r61hY2SAYBEdhQp-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-94" target="Xpva0r61hY2SAYBEdhQp-118">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-94" target="Xpva0r61hY2SAYBEdhQp-118" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="740" y="1060" />
@@ -237,13 +237,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-94" value="Would using the standard ONT barcoding protocol eliminate the spurious barcoding and unclassified issues?" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-94" value="Would using the standard ONT barcoding protocol eliminate the spurious barcoding and unclassified issues?" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="635" y="930" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-93" target="Xpva0r61hY2SAYBEdhQp-94">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-93" target="Xpva0r61hY2SAYBEdhQp-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-97" target="Xpva0r61hY2SAYBEdhQp-100">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-97" target="Xpva0r61hY2SAYBEdhQp-100" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="380" y="960" />
@@ -251,34 +251,34 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-97" target="Xpva0r61hY2SAYBEdhQp-101">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-97" target="Xpva0r61hY2SAYBEdhQp-101" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-97" value="What is the optimal balance between number of samples per run, flow cell, and sequencing time?" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-97" value="What is the optimal balance between number of samples per run, flow cell, and sequencing time?" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="260" y="870" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-98" target="Xpva0r61hY2SAYBEdhQp-100">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-98" target="Xpva0r61hY2SAYBEdhQp-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-98" value="Is there bleed-through from non-barcoded DNA to barcoded DNA?" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-98" value="Is there bleed-through from non-barcoded DNA to barcoded DNA?" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="350" y="960" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-99" target="Xpva0r61hY2SAYBEdhQp-103">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-99" target="Xpva0r61hY2SAYBEdhQp-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-99" value="What are the best-performing &lt;i&gt;pfhrp2 &lt;/i&gt;barcoding primers?" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-99" value="What are the best-performing &lt;i&gt;pfhrp2 &lt;/i&gt;barcoding primers?" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="550" y="1100" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-100" value="&lt;i&gt;k13 &lt;/i&gt;amplicon spike-in experiment to test bleed-through into barcoded DNA and minimum sequencing to detect minority DNA in sequencing pool " style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-100" value="&lt;i&gt;k13 &lt;/i&gt;amplicon spike-in experiment to test bleed-through into barcoded DNA and minimum sequencing to detect minority DNA in sequencing pool " style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="210" y="1060" width="185" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-101" target="Xpva0r61hY2SAYBEdhQp-105">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-101" target="Xpva0r61hY2SAYBEdhQp-105" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-101" value="&lt;div&gt;&lt;b&gt;14 July 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Basic Flongle experiment representing a 2 sample + negative control model&lt;/li&gt;&lt;li&gt;HB3, FC27, and Dd2&lt;/li&gt;&lt;li&gt;6 hours&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-101" value="&lt;div&gt;&lt;b&gt;14 July 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Basic Flongle experiment representing a 2 sample + negative control model&lt;/li&gt;&lt;li&gt;HB3, FC27, and Dd2&lt;/li&gt;&lt;li&gt;6 hours&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="905" width="180" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-103" target="Xpva0r61hY2SAYBEdhQp-135">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-103" target="Xpva0r61hY2SAYBEdhQp-135" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="810" y="1260" />
@@ -292,22 +292,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-103" value="&lt;i&gt;in vitro &lt;/i&gt;test of all barcoding primers to assess performance&lt;br&gt;&lt;i&gt;&lt;/i&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-103" value="&lt;i&gt;in vitro &lt;/i&gt;test of all barcoding primers to assess performance&lt;br&gt;&lt;i&gt;&lt;/i&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="655" y="1210" width="185" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-105" target="Xpva0r61hY2SAYBEdhQp-110">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-105" target="Xpva0r61hY2SAYBEdhQp-110" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-105" value="&lt;div&gt;&lt;b&gt;24 September 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;sequencing of &lt;i&gt;k13 &lt;/i&gt;amplicon spike-in pools&lt;/li&gt;&lt;li&gt;1 x Flongle run with 7G8, 3D7, HB3, FC27, Dd2 (MR4 isolates)&lt;br&gt;&lt;/li&gt;&lt;li&gt;1 x flow cell run with 7G8, 3D7, HB3, FC27, Dd2 (MR4 isolates)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-105" value="&lt;div&gt;&lt;b&gt;24 September 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;sequencing of &lt;i&gt;k13 &lt;/i&gt;amplicon spike-in pools&lt;/li&gt;&lt;li&gt;1 x Flongle run with 7G8, 3D7, HB3, FC27, Dd2 (MR4 isolates)&lt;br&gt;&lt;/li&gt;&lt;li&gt;1 x flow cell run with 7G8, 3D7, HB3, FC27, Dd2 (MR4 isolates)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="1067" width="180" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-110" target="Xpva0r61hY2SAYBEdhQp-114">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-110" target="Xpva0r61hY2SAYBEdhQp-114" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-110" target="Xpva0r61hY2SAYBEdhQp-117">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-110" target="Xpva0r61hY2SAYBEdhQp-117" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-110" target="Xpva0r61hY2SAYBEdhQp-129">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-110" target="Xpva0r61hY2SAYBEdhQp-129" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="210" y="1297" />
@@ -316,10 +316,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-110" value="&lt;div&gt;&lt;b&gt;07 October 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;ONT full protocol test&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-110" value="&lt;div&gt;&lt;b&gt;07 October 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;ONT full protocol test&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="1260" width="180" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-114" target="Xpva0r61hY2SAYBEdhQp-129">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-114" target="Xpva0r61hY2SAYBEdhQp-129" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="180" y="1490" />
@@ -327,13 +327,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-114" target="Xpva0r61hY2SAYBEdhQp-135">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-114" target="Xpva0r61hY2SAYBEdhQp-135" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-114" value="&lt;div&gt;&lt;b&gt;07 October 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;ONT reduced protocol test&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-114" value="&lt;div&gt;&lt;b&gt;07 October 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;ONT reduced protocol test&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="1358" width="180" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-116" target="Xpva0r61hY2SAYBEdhQp-114">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-116" target="Xpva0r61hY2SAYBEdhQp-114" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="705" y="1470" />
@@ -342,40 +342,40 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-116" value="Adaptation of the ONT protocol to be reduced through reduction of clean-up steps" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-116" value="Adaptation of the ONT protocol to be reduced through reduction of clean-up steps" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="612.5" y="1355" width="185" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-117" target="Xpva0r61hY2SAYBEdhQp-121">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=none;endFill=0;dashed=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-117" target="Xpva0r61hY2SAYBEdhQp-121" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-117" value="Spurious barcode issue negligible, proportion of unclassified reads dramatically reduced" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#009900;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-117" value="Spurious barcode issue negligible, proportion of unclassified reads dramatically reduced" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#009900;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="275" y="1320" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-118" target="Xpva0r61hY2SAYBEdhQp-110">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-118" target="Xpva0r61hY2SAYBEdhQp-110" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-118" value="Adaptation of &lt;i&gt;pfhrp2 &lt;/i&gt;amplification to accommodate the ONT universal primer tail for compatibility with the standard ONT barcoding protocol" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-118" value="Adaptation of &lt;i&gt;pfhrp2 &lt;/i&gt;amplification to accommodate the ONT universal primer tail for compatibility with the standard ONT barcoding protocol" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="260" y="1170" width="185" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-121" target="Xpva0r61hY2SAYBEdhQp-116">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-121" target="Xpva0r61hY2SAYBEdhQp-116" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-121" value="ONT full standard protocol involves additional primers, an additional PCR reaction, and numerous clean-up steps in comparison to the previous custom protocol" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#CC0000;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-121" value="ONT full standard protocol involves additional primers, an additional PCR reaction, and numerous clean-up steps in comparison to the previous custom protocol" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#CC0000;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="427.5" y="1310" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-128" target="Xpva0r61hY2SAYBEdhQp-141">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-128" target="Xpva0r61hY2SAYBEdhQp-141" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-128" value="Despite the promising distribution of reads, the data did not have true amplicons, but chimeric, truncated sequences&amp;nbsp; " style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#CC0000;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-128" value="Despite the promising distribution of reads, the data did not have true amplicons, but chimeric, truncated sequences&amp;nbsp; " style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#CC0000;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="432.5" y="1510" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=10;endArrow=oval;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-129" target="Xpva0r61hY2SAYBEdhQp-128">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=10;endArrow=oval;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-129" target="Xpva0r61hY2SAYBEdhQp-128" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-129" value="ONT protocol sequencing data analysis" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-129" value="ONT protocol sequencing data analysis" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="220" y="1520" width="185" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-135" target="Xpva0r61hY2SAYBEdhQp-143">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-135" target="Xpva0r61hY2SAYBEdhQp-143" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="190" y="1577" />
@@ -383,32 +383,47 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-135" value="&lt;div&gt;&lt;b&gt;09-10 November 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;barcoding test&lt;/li&gt;&lt;li&gt;6 x flow cell runs with 3-5 replicates of 7G8 each&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VScd_CKkxgwsBksNUtEm-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-135" target="VScd_CKkxgwsBksNUtEm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-135" value="&lt;div&gt;&lt;b&gt;09-10 November 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;barcoding test&lt;/li&gt;&lt;li&gt;6 x flow cell runs with 3-5 replicates of 7G8 each&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="1510" width="180" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-141" value="Data resulting from ONT protocol is unusable for this assay" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-141" value="Data resulting from ONT protocol is unusable for this assay" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="612.5" y="1490" width="185" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-143" target="Xpva0r61hY2SAYBEdhQp-145">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-143" target="Xpva0r61hY2SAYBEdhQp-145" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-143" value="Analysis of read distribution across barcodes and barcode performance comparison" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-143" value="Analysis of read distribution across barcodes and barcode performance comparison" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="210" y="1610" width="185" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-145" target="Xpva0r61hY2SAYBEdhQp-146">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-145" target="Xpva0r61hY2SAYBEdhQp-146" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-145" target="Xpva0r61hY2SAYBEdhQp-147">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;endArrow=block;endFill=1;" parent="1" source="Xpva0r61hY2SAYBEdhQp-145" target="Xpva0r61hY2SAYBEdhQp-147" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-145" value="Why are barcodes consistently uneven despite normalization of input DNA (ng/uL)?" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-145" value="Why are barcodes consistently uneven despite normalization of input DNA (ng/uL)?" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="480" y="1715" width="207.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-146" value="&lt;i&gt;k13 &lt;/i&gt;custom protocol MinION experiment to test barcode evenness in a more GC/AT balanced target sequence" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1720" width="185" height="50" as="geometry" />
+        <mxCell id="VScd_CKkxgwsBksNUtEm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.017;entryY=0.584;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Xpva0r61hY2SAYBEdhQp-146" target="VScd_CKkxgwsBksNUtEm-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xpva0r61hY2SAYBEdhQp-147" value="&lt;i&gt;k13 &lt;/i&gt;and &lt;i&gt;pfhrp2 &lt;/i&gt;co-barcoded MinION experiment to test if the presence of more GC/AT balanced sequences improve data yield evenness for &lt;i&gt;pfhrp2 &lt;/i&gt;DNA across different barcodes" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1790" width="210" height="80" as="geometry" />
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-146" value="&lt;i&gt;k13 &lt;/i&gt;custom protocol MinION experiment to test barcode evenness in a more GC/AT balanced target sequence" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="255" y="1720" width="185" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Xpva0r61hY2SAYBEdhQp-147" value="&lt;i&gt;k13 &lt;/i&gt;and &lt;i&gt;pfhrp2 &lt;/i&gt;co-barcoded MinION experiment to test if the presence of more GC/AT balanced sequences improve data yield evenness for &lt;i&gt;pfhrp2 &lt;/i&gt;DNA across different barcodes" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="260" y="1900" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VScd_CKkxgwsBksNUtEm-1" value="&lt;div&gt;&lt;b&gt;16 December 2021&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;k13 amplicon test&lt;/li&gt;&lt;li&gt;1 x flow cell run with 3D7, 7G8, HB3, D6, and Dd2&lt;/li&gt;&lt;li&gt;1 x flow cell run with 5 x 7G8 replicates&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1740" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VScd_CKkxgwsBksNUtEm-4" value="Barcode evenness across 1, 2, 7, 9, and 10 is dramatically improved compared to hrp2 experiments for a reference panel and for 7G8 replicates" style="whiteSpace=wrap;html=1;strokeColor=#009900;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1780" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VScd_CKkxgwsBksNUtEm-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="VScd_CKkxgwsBksNUtEm-1" target="VScd_CKkxgwsBksNUtEm-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
