@@ -1,0 +1,129 @@
+filename	sequence	start_VDD	Stop_CLRH	HRP3	Ambiguit_check	Length_between_start_and_stop	total_length_of_repeats	residues	exon_1	exon2_start	repeat_type	repeat_type_count
+U097 tig00000001 mapped (reversed) translation.fasta	>U097_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type1	2
+U097 tig00000001 mapped (reversed) translation.fasta	>U097_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type2	13
+U097 tig00000001 mapped (reversed) translation.fasta	>U097_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type3	1
+U097 tig00000001 mapped (reversed) translation.fasta	>U097_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type4	1
+U097 tig00000001 mapped (reversed) translation.fasta	>U097_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type5	1
+U097 tig00000001 mapped (reversed) translation.fasta	>U097_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type6	3
+U097 tig00000001 mapped (reversed) translation.fasta	>U097_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type7	5
+U097 tig00000001 mapped (reversed) translation.fasta	>U097_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type8	1
+U097 tig00000001 mapped (reversed) translation.fasta	>U097_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type9	0
+U097 tig00000001 mapped (reversed) translation.fasta	>U097_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type10	2
+U097 tig00000001 mapped (reversed) translation.fasta	>U097_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type11	0
+U097 tig00000001 mapped (reversed) translation.fasta	>U097_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type12	1
+U097 tig00000001 mapped (reversed) translation.fasta	>U097_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type13	0
+U097 tig00000001 mapped (reversed) translation.fasta	>U097_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type14	0
+U097 tig00000001 mapped (reversed) translation.fasta	>U097_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type30	0
+U097 tig00000001 mapped (reversed) translation.fasta	>U097_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type31	0
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type1	1
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type2	14
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type3	1
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type4	1
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type5	1
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type6	5
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type7	5
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type8	2
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type9	0
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type10	2
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type11	0
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type12	1
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type13	0
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type14	0
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type30	0
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type31	0
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type1	3
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type2	11
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type3	1
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type4	1
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type5	2
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type6	3
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type7	5
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type8	1
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type9	0
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type10	2
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type11	0
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type12	1
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type13	0
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type14	0
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type30	0
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type31	0
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type1	4
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type2	12
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type3	2
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type4	0
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type5	0
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type6	2
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type7	7
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type8	1
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type9	0
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type10	1
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type11	0
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type12	1
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type13	2
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type14	0
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type30	0
+3 documents from U097 - geneious - de novo Assembly.fasta	>U097_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type31	0
+U097_bc49.fasta	>U097_bc49_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	236	9	1	1	type1	1
+U097_bc49.fasta	>U097_bc49_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	236	9	1	1	type2	12
+U097_bc49.fasta	>U097_bc49_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	236	9	1	1	type3	1
+U097_bc49.fasta	>U097_bc49_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	236	9	1	1	type4	6
+U097_bc49.fasta	>U097_bc49_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	236	9	1	1	type5	1
+U097_bc49.fasta	>U097_bc49_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	236	9	1	1	type6	3
+U097_bc49.fasta	>U097_bc49_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	236	9	1	1	type7	4
+U097_bc49.fasta	>U097_bc49_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	236	9	1	1	type8	1
+U097_bc49.fasta	>U097_bc49_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	236	9	1	1	type9	0
+U097_bc49.fasta	>U097_bc49_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	236	9	1	1	type10	2
+U097_bc49.fasta	>U097_bc49_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	236	9	1	1	type11	0
+U097_bc49.fasta	>U097_bc49_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	236	9	1	1	type12	1
+U097_bc49.fasta	>U097_bc49_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	236	9	1	1	type13	0
+U097_bc49.fasta	>U097_bc49_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	236	9	1	1	type14	0
+U097_bc49.fasta	>U097_bc49_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	236	9	1	1	type30	0
+U097_bc49.fasta	>U097_bc49_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	236	9	1	1	type31	0
+U097_bc49.fasta	>U097_bc49_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type1	4
+U097_bc49.fasta	>U097_bc49_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type2	12
+U097_bc49.fasta	>U097_bc49_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type3	2
+U097_bc49.fasta	>U097_bc49_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type4	0
+U097_bc49.fasta	>U097_bc49_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type5	0
+U097_bc49.fasta	>U097_bc49_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type6	2
+U097_bc49.fasta	>U097_bc49_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type7	7
+U097_bc49.fasta	>U097_bc49_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type8	1
+U097_bc49.fasta	>U097_bc49_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type9	0
+U097_bc49.fasta	>U097_bc49_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type10	1
+U097_bc49.fasta	>U097_bc49_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type11	0
+U097_bc49.fasta	>U097_bc49_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type12	1
+U097_bc49.fasta	>U097_bc49_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type13	2
+U097_bc49.fasta	>U097_bc49_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type14	0
+U097_bc49.fasta	>U097_bc49_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type30	0
+U097_bc49.fasta	>U097_bc49_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	258	258	0	1	1	type31	0
+U097_bc49.fasta	>U097_bc49_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type1	1
+U097_bc49.fasta	>U097_bc49_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type2	14
+U097_bc49.fasta	>U097_bc49_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type3	1
+U097_bc49.fasta	>U097_bc49_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type4	1
+U097_bc49.fasta	>U097_bc49_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type5	1
+U097_bc49.fasta	>U097_bc49_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type6	5
+U097_bc49.fasta	>U097_bc49_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type7	5
+U097_bc49.fasta	>U097_bc49_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type8	2
+U097_bc49.fasta	>U097_bc49_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type9	0
+U097_bc49.fasta	>U097_bc49_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type10	2
+U097_bc49.fasta	>U097_bc49_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type11	0
+U097_bc49.fasta	>U097_bc49_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type12	1
+U097_bc49.fasta	>U097_bc49_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type13	0
+U097_bc49.fasta	>U097_bc49_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type14	0
+U097_bc49.fasta	>U097_bc49_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type30	0
+U097_bc49.fasta	>U097_bc49_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type31	0
+U097_bc49.fasta	>U097_bc49_Contig_4_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type1	1
+U097_bc49.fasta	>U097_bc49_Contig_4_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type2	14
+U097_bc49.fasta	>U097_bc49_Contig_4_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type3	1
+U097_bc49.fasta	>U097_bc49_Contig_4_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type4	1
+U097_bc49.fasta	>U097_bc49_Contig_4_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type5	1
+U097_bc49.fasta	>U097_bc49_Contig_4_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type6	5
+U097_bc49.fasta	>U097_bc49_Contig_4_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type7	5
+U097_bc49.fasta	>U097_bc49_Contig_4_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type8	2
+U097_bc49.fasta	>U097_bc49_Contig_4_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type9	0
+U097_bc49.fasta	>U097_bc49_Contig_4_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type10	2
+U097_bc49.fasta	>U097_bc49_Contig_4_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type11	0
+U097_bc49.fasta	>U097_bc49_Contig_4_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type12	1
+U097_bc49.fasta	>U097_bc49_Contig_4_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type13	0
+U097_bc49.fasta	>U097_bc49_Contig_4_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type14	0
+U097_bc49.fasta	>U097_bc49_Contig_4_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type30	0
+U097_bc49.fasta	>U097_bc49_Contig_4_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	263	263	0	1	1	type31	0

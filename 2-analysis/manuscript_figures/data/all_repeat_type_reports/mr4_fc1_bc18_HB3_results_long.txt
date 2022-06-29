@@ -1,0 +1,65 @@
+filename	sequence	start_VDD	Stop_CLRH	HRP3	Ambiguit_check	Length_between_start_and_stop	total_length_of_repeats	residues	exon_1	exon2_start	repeat_type	repeat_type_count
+HB3_FC1_bc18_tig00000001 translation.fasta	>HB3_FC1_bc18_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type1	5
+HB3_FC1_bc18_tig00000001 translation.fasta	>HB3_FC1_bc18_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type2	12
+HB3_FC1_bc18_tig00000001 translation.fasta	>HB3_FC1_bc18_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type3	1
+HB3_FC1_bc18_tig00000001 translation.fasta	>HB3_FC1_bc18_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type4	0
+HB3_FC1_bc18_tig00000001 translation.fasta	>HB3_FC1_bc18_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type5	1
+HB3_FC1_bc18_tig00000001 translation.fasta	>HB3_FC1_bc18_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type6	2
+HB3_FC1_bc18_tig00000001 translation.fasta	>HB3_FC1_bc18_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type7	8
+HB3_FC1_bc18_tig00000001 translation.fasta	>HB3_FC1_bc18_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type8	1
+HB3_FC1_bc18_tig00000001 translation.fasta	>HB3_FC1_bc18_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type9	0
+HB3_FC1_bc18_tig00000001 translation.fasta	>HB3_FC1_bc18_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type10	1
+HB3_FC1_bc18_tig00000001 translation.fasta	>HB3_FC1_bc18_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type11	0
+HB3_FC1_bc18_tig00000001 translation.fasta	>HB3_FC1_bc18_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type12	1
+HB3_FC1_bc18_tig00000001 translation.fasta	>HB3_FC1_bc18_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type13	0
+HB3_FC1_bc18_tig00000001 translation.fasta	>HB3_FC1_bc18_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type14	0
+HB3_FC1_bc18_tig00000001 translation.fasta	>HB3_FC1_bc18_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type30	0
+HB3_FC1_bc18_tig00000001 translation.fasta	>HB3_FC1_bc18_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type31	0
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_canu_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type1	5
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_canu_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type2	12
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_canu_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type3	1
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_canu_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type4	0
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_canu_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type5	1
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_canu_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type6	2
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_canu_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type7	8
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_canu_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type8	1
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_canu_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type9	0
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_canu_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type10	1
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_canu_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type11	0
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_canu_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type12	1
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_canu_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type13	0
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_canu_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type14	0
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_canu_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type30	0
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_canu_tig00000001_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type31	0
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type1	5
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type2	12
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type3	1
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type4	0
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type5	1
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type6	2
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type7	8
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type8	1
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type9	0
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type10	1
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type11	0
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type12	1
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type13	0
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type14	0
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type30	0
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	261	0	1	1	type31	0
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	270	-9	1	1	type1	5
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	270	-9	1	1	type2	12
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	270	-9	1	1	type3	1
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	270	-9	1	1	type4	1
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	270	-9	1	1	type5	1
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	270	-9	1	1	type6	2
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	270	-9	1	1	type7	9
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	270	-9	1	1	type8	1
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	270	-9	1	1	type9	0
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	270	-9	1	1	type10	1
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	270	-9	1	1	type11	0
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	270	-9	1	1	type12	1
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	270	-9	1	1	type13	0
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	270	-9	1	1	type14	0
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	270	-9	1	1	type30	0
+HB3_FC1_bc18.multi.fasta	>HB3_FC1_barcode18_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	261	270	-9	1	1	type31	0

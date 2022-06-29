@@ -1,0 +1,81 @@
+filename	sequence	start_VDD	Stop_CLRH	HRP3	Ambiguit_check	Length_between_start_and_stop	total_length_of_repeats	residues	exon_1	exon2_start	repeat_type	repeat_type_count
+5721 tig00000001 mapped (reversed) translation.fasta	>5721_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	259	254	5	1	1	type1	3
+5721 tig00000001 mapped (reversed) translation.fasta	>5721_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	259	254	5	1	1	type2	12
+5721 tig00000001 mapped (reversed) translation.fasta	>5721_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	259	254	5	1	1	type3	1
+5721 tig00000001 mapped (reversed) translation.fasta	>5721_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	259	254	5	1	1	type4	2
+5721 tig00000001 mapped (reversed) translation.fasta	>5721_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	259	254	5	1	1	type5	1
+5721 tig00000001 mapped (reversed) translation.fasta	>5721_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	259	254	5	1	1	type6	2
+5721 tig00000001 mapped (reversed) translation.fasta	>5721_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	259	254	5	1	1	type7	7
+5721 tig00000001 mapped (reversed) translation.fasta	>5721_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	259	254	5	1	1	type8	1
+5721 tig00000001 mapped (reversed) translation.fasta	>5721_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	259	254	5	1	1	type9	0
+5721 tig00000001 mapped (reversed) translation.fasta	>5721_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	259	254	5	1	1	type10	2
+5721 tig00000001 mapped (reversed) translation.fasta	>5721_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	259	254	5	1	1	type11	0
+5721 tig00000001 mapped (reversed) translation.fasta	>5721_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	259	254	5	1	1	type12	1
+5721 tig00000001 mapped (reversed) translation.fasta	>5721_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	259	254	5	1	1	type13	0
+5721 tig00000001 mapped (reversed) translation.fasta	>5721_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	259	254	5	1	1	type14	0
+5721 tig00000001 mapped (reversed) translation.fasta	>5721_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	259	254	5	1	1	type30	0
+5721 tig00000001 mapped (reversed) translation.fasta	>5721_tig00000001_mapped_(reversed)_translation	VDD is present	CLRH is present	No HRP3	False	259	254	5	1	1	type31	0
+5721_bc52.fasta	>5721_bc52_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	239	6	1	1	type1	2
+5721_bc52.fasta	>5721_bc52_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	239	6	1	1	type2	12
+5721_bc52.fasta	>5721_bc52_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	239	6	1	1	type3	1
+5721_bc52.fasta	>5721_bc52_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	239	6	1	1	type4	4
+5721_bc52.fasta	>5721_bc52_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	239	6	1	1	type5	1
+5721_bc52.fasta	>5721_bc52_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	239	6	1	1	type6	2
+5721_bc52.fasta	>5721_bc52_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	239	6	1	1	type7	5
+5721_bc52.fasta	>5721_bc52_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	239	6	1	1	type8	1
+5721_bc52.fasta	>5721_bc52_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	239	6	1	1	type9	0
+5721_bc52.fasta	>5721_bc52_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	239	6	1	1	type10	2
+5721_bc52.fasta	>5721_bc52_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	239	6	1	1	type11	0
+5721_bc52.fasta	>5721_bc52_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	239	6	1	1	type12	1
+5721_bc52.fasta	>5721_bc52_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	239	6	1	1	type13	0
+5721_bc52.fasta	>5721_bc52_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	239	6	1	1	type14	0
+5721_bc52.fasta	>5721_bc52_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	239	6	1	1	type30	0
+5721_bc52.fasta	>5721_bc52_-_Pf3D7_08_v3_HRP2_ann_v1_extraction_060121_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	TRUE	245	239	6	1	1	type31	0
+5721_bc52.fasta	>5721_bc52_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	266	266	0	1	1	type1	2
+5721_bc52.fasta	>5721_bc52_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	266	266	0	1	1	type2	12
+5721_bc52.fasta	>5721_bc52_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	266	266	0	1	1	type3	2
+5721_bc52.fasta	>5721_bc52_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	266	266	0	1	1	type4	0
+5721_bc52.fasta	>5721_bc52_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	266	266	0	1	1	type5	1
+5721_bc52.fasta	>5721_bc52_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	266	266	0	1	1	type6	4
+5721_bc52.fasta	>5721_bc52_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	266	266	0	1	1	type7	8
+5721_bc52.fasta	>5721_bc52_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	266	266	0	1	1	type8	1
+5721_bc52.fasta	>5721_bc52_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	266	266	0	1	1	type9	0
+5721_bc52.fasta	>5721_bc52_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	266	266	0	1	1	type10	2
+5721_bc52.fasta	>5721_bc52_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	266	266	0	1	1	type11	0
+5721_bc52.fasta	>5721_bc52_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	266	266	0	1	1	type12	1
+5721_bc52.fasta	>5721_bc52_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	266	266	0	1	1	type13	0
+5721_bc52.fasta	>5721_bc52_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	266	266	0	1	1	type14	0
+5721_bc52.fasta	>5721_bc52_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	266	266	0	1	1	type30	0
+5721_bc52.fasta	>5721_bc52_Contig_1_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	266	266	0	1	1	type31	0
+5721_bc52.fasta	>5721_bc52_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type1	3
+5721_bc52.fasta	>5721_bc52_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type2	11
+5721_bc52.fasta	>5721_bc52_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type3	1
+5721_bc52.fasta	>5721_bc52_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type4	1
+5721_bc52.fasta	>5721_bc52_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type5	2
+5721_bc52.fasta	>5721_bc52_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type6	3
+5721_bc52.fasta	>5721_bc52_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type7	5
+5721_bc52.fasta	>5721_bc52_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type8	1
+5721_bc52.fasta	>5721_bc52_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type9	0
+5721_bc52.fasta	>5721_bc52_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type10	2
+5721_bc52.fasta	>5721_bc52_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type11	0
+5721_bc52.fasta	>5721_bc52_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type12	1
+5721_bc52.fasta	>5721_bc52_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type13	0
+5721_bc52.fasta	>5721_bc52_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type14	0
+5721_bc52.fasta	>5721_bc52_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type30	0
+5721_bc52.fasta	>5721_bc52_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	245	245	0	1	1	type31	0
+5721_bc52.fasta	>5721_bc52_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	246	246	0	1	1	type1	5
+5721_bc52.fasta	>5721_bc52_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	246	246	0	1	1	type2	10
+5721_bc52.fasta	>5721_bc52_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	246	246	0	1	1	type3	1
+5721_bc52.fasta	>5721_bc52_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	246	246	0	1	1	type4	1
+5721_bc52.fasta	>5721_bc52_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	246	246	0	1	1	type5	1
+5721_bc52.fasta	>5721_bc52_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	246	246	0	1	1	type6	3
+5721_bc52.fasta	>5721_bc52_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	246	246	0	1	1	type7	7
+5721_bc52.fasta	>5721_bc52_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	246	246	0	1	1	type8	1
+5721_bc52.fasta	>5721_bc52_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	246	246	0	1	1	type9	0
+5721_bc52.fasta	>5721_bc52_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	246	246	0	1	1	type10	1
+5721_bc52.fasta	>5721_bc52_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	246	246	0	1	1	type11	0
+5721_bc52.fasta	>5721_bc52_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	246	246	0	1	1	type12	1
+5721_bc52.fasta	>5721_bc52_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	246	246	0	1	1	type13	0
+5721_bc52.fasta	>5721_bc52_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	246	246	0	1	1	type14	0
+5721_bc52.fasta	>5721_bc52_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	246	246	0	1	1	type30	0
+5721_bc52.fasta	>5721_bc52_Contig_3_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	246	246	0	1	1	type31	0

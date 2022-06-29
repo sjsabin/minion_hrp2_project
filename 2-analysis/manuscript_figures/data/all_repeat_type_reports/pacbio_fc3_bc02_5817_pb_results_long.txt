@@ -1,0 +1,17 @@
+filename	sequence	start_VDD	Stop_CLRH	HRP3	Ambiguit_check	Length_between_start_and_stop	total_length_of_repeats	residues	exon_1	exon2_start	repeat_type	repeat_type_count
+5817_pacbio.fasta	>5817_pacbio_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	241	241	0	1	1	type1	2
+5817_pacbio.fasta	>5817_pacbio_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	241	241	0	1	1	type2	15
+5817_pacbio.fasta	>5817_pacbio_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	241	241	0	1	1	type3	1
+5817_pacbio.fasta	>5817_pacbio_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	241	241	0	1	1	type4	0
+5817_pacbio.fasta	>5817_pacbio_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	241	241	0	1	1	type5	0
+5817_pacbio.fasta	>5817_pacbio_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	241	241	0	1	1	type6	2
+5817_pacbio.fasta	>5817_pacbio_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	241	241	0	1	1	type7	4
+5817_pacbio.fasta	>5817_pacbio_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	241	241	0	1	1	type8	1
+5817_pacbio.fasta	>5817_pacbio_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	241	241	0	1	1	type9	0
+5817_pacbio.fasta	>5817_pacbio_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	241	241	0	1	1	type10	0
+5817_pacbio.fasta	>5817_pacbio_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	241	241	0	1	1	type11	0
+5817_pacbio.fasta	>5817_pacbio_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	241	241	0	1	1	type12	1
+5817_pacbio.fasta	>5817_pacbio_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	241	241	0	1	1	type13	0
+5817_pacbio.fasta	>5817_pacbio_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	241	241	0	1	1	type14	2
+5817_pacbio.fasta	>5817_pacbio_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	241	241	0	1	1	type30	1
+5817_pacbio.fasta	>5817_pacbio_Contig_2_consensus_sequence_translation	VDD is present	CLRH is present	No HRP3	False	241	241	0	1	1	type31	0
