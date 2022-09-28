@@ -5,6 +5,9 @@
 .ipynb_checkpoints/
 reporting/
 
+# Ignore this file:
+analysis/figures_coverage_thresholds/manuscript_figures.ipynb
+
 # Ignore temporary files:
 *.tmp
 
