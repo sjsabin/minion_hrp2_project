@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# minimap2 v. 2.21-r1071
+
 # Basic minimap2 script for aligning nanopore sequenced data to pfhrp2 reference sequences
 
 REF=$1
