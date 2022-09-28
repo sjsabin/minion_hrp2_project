@@ -1,5 +1,7 @@
 # pfhrp2 typing script
 #
+# python v. 3.8.5
+#
 # Usage:
 #
 # python hrp2.py [INPUT/PATH] [OUTPUT/PATH/FILENAME.txt]
