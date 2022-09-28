@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+# Tools:
+#	samtools (v. 1.13)
+#	Qualimap (v. 2.2.2)
+
 # This script runs 1) samtools sort and 2) qualimap bamqc, starting with the
 #   minimap2 results file (*.sam) as input. Output files are a bam file and
 #   qualimap output.
