@@ -3,9 +3,7 @@
 
 # Ignore these directories:
 .ipynb_checkpoints/
-1-data/
-3-literature/
-collab_folders/
+reporting/
 
 # Ignore temporary files:
 *.tmp
