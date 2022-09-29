@@ -11,3 +11,4 @@ The **analysis** folder contains scripts and Jupyter notebooks used to analyze M
 - **repeat-typing** with python
 
 ![Workflow for MinION hrp2 deletion assay](fig01_workflow.drawio.png)
+*Workflow diagram*
